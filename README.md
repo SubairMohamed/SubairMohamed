@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subair Mohamed</h1>
 <h3 align="center">A passionate Frontend Developer from Somaliland</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/SubairMohamed/SubairMohamed/blob/main/avater.png"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subairmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="subairmohamed" /> </p>
-
 
 - 🌱 I’m currently learning **MERN STACK**
 
@@ -12,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://app.daily.dev/subairmoham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/subairmoham" height="30" width="40" /></a>
+<a href="https://app.daily.dev/subairmoham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/subairmoham" height="30" width="40" /></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/subair-mohamed-809338182/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/Subair-Mohamed-3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19454657/subair-mohamed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@subairmoham) 
