@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subair Mohamed</h1>
 <h3 align="center">A passionate Frontend Developer from Somaliland</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/SubairMohamed/SubairMohamed/blob/main/Screenshot%20(3).png"/>
+<img align="right" alt="Coding" width="200" src="https://github.com/SubairMohamed/SubairMohamed/blob/main/Screenshot%20(3).png"/>
 
 - 🌱 I’m currently learning **MERN STACK**
 
