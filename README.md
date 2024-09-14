@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Frontend Developer from Somaliland</h3>
 <img align="right" alt="Coding" width="200" src="https://github.com/SubairMohamed/SubairMohamed/blob/main/Screenshot%20(3).png"/>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 learning **MERN STACK**
 
-- 💬 Ask me about **Web Designer**
+- 💬 **Web Designer & Graphic Designer**
 
-- 📫 How to reach me **subairmohamed44@gmail.com**
+- 📫 **subairmohamed44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
